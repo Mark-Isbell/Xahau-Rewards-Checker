@@ -1,0 +1,14 @@
+{
+    "name": "xahau-rewards-checker",
+    "version": "1.0.0",
+    "description": "Xahau balance rewards checker for specific Xahau address.",
+    "private": false,
+    "dependencies": {
+        "xrpl-accountlib": "^3.6.3",
+        "node-fetch": "^3.0.0"
+    },
+    "engines": {
+        "node": ">= 8.0.0",
+        "npm": ">= 3.0.0"
+    }
+}
